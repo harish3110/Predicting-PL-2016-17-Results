@@ -1,5 +1,5 @@
 # Predicting_Winning_Teams
-This is the code for Predicting Premier League Winners for a 38 match 2017-2018 season using multiple machine learning models based on training data from 2000 - 2016 PL Season data and finally choosing the most optimum model and optimizing it further.
+This is the code for Predicting Premier League Winners for a 38 match 2016-2017 season using multiple machine learning models based on training data from 2000 - 2016 PL Season data and finally choosing the most optimum model and optimizing it further.
 
 ## Overview
 
